@@ -7,7 +7,7 @@ import Customers from './Component/Header/Customers'
 import Solutions from './Component/Header/Solutions'
 import Error from './Component/Header/Error'
 import NavbarArea from './Component/Navbar'
-import Hablu from './Component/Hablu'
+
 
 
 function App() {
